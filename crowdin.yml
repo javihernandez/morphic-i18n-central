@@ -3,3 +3,5 @@ files:
     translation: /morphic-community-webapp/%two_letters_code%.json
   - source: /morphic-windows/Morphic.Client/Properties/Resources.resx
     translation: /morphic-windows/Morphic.Client/Properties/Resources.%two_letters_code%.resx
+  - source: /morphic-macos/Morphic/Morphic/MorphicBar/en.lproj/MorphicBarViewController.strings
+    translation: /morphic-macos/Morphic/Morphic/MorphicBar/%two_letters_code%.lproj/MorphicBarViewController.strings
