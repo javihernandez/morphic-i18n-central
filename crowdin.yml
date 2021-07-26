@@ -1,0 +1,3 @@
+files:
+  - source: /morphic-community-webapp/
+    translation: /morphic-community-webapp/%two_letters_code%.json
