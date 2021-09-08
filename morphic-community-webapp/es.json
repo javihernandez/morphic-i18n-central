@@ -32,10 +32,10 @@
     "try-it_button": "Try it"
   },
   "General": {
-    "no_button": "No",
-    "yes_button": "Yes",
+    "no_button": "Nu",
+    "yes_button": "Sí",
     "ok_button": "OK",
-    "cancel_button": "Cancel",
+    "cancel_button": "Cancelar",
     "member-state": {
       "active": "Activo",
       "invited": "Not yet accepted",
@@ -77,7 +77,7 @@
   "BlockLoginRegister": {},
   "Invite": {
     "cancel_button": "Decline invitation",
-    "confirm-decline-no_button": "No",
+    "confirm-decline-no_button": "Nu",
     "confirm-decline_message": "Do you really want to decline your invitation for Morphic?",
     "confirm-decline-yes_button": "Yes, decline",
     "confirm-decline_title": "Decline Morphic Invation",
@@ -99,16 +99,16 @@
     "register-form-lead": "To accept your Morphic invitation and MorphicBar, you need to create a Morphic account below (unless you already have a Morphic account).",
     "sign-in-form-lead": "To accept your Morphic invitation and MorphicBar, you need to sign into your Morphic account below (or create a Morphic account if you do not have one).",
     "sign-in-register_link": "Sign up for a new Morphic account with a different email",
-    "sign-in_button": "Sign in"
+    "sign-in_button": "Iniciar sesión"
   },
   "MemberDetails": {
     "bar-unused": "Esta barra no tiene miembros que la utilicen.",
-    "delete-member_button": "Delete member",
+    "delete-member_button": "Eliminar miembro",
     "re-invite_button": "Send a new invitation",
     "invite_button": "Send an invitation"
   },
   "NewMember": {
-    "title": "Add a person"
+    "title": "Añadir una persona"
   },
   "NewMemberDialog": {
     "add_button": "Add Person",
@@ -182,7 +182,7 @@
   "Header": {
     "focus-mode_button": "Mobile Mode",
     "logout_button": "Sign out",
-    "login_button": "Sign in",
+    "login_button": "Iniciar sesión",
     "product-name": "Custom MorphicBar Tool",
     "standard-mode_button": "Modo estándar"
   },
@@ -219,7 +219,7 @@
     "expand_button_arial-label": "Expand {name}",
     "invitation-not-accepted": "Invited, but has not yet accepted.",
     "invite_button": "Invite",
-    "invite_button_aria-label": "Invite {name}",
+    "invite_button_aria-label": "Invitar a {name}",
     "no-members": "¡Crea y gestiona MorphicBars para otros! Tu suscripción de {subscription} a Morphic te permite invitar a {maxMembers} personas a tu cuenta.",
     "not-invited": "Not yet invited.",
     "re-invite_button": "Re-send invitation",
