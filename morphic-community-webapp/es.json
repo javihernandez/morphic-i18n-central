@@ -8,9 +8,9 @@
     "search-result-summary": "No items found | 1 item found | {n} items found"
   },
   "ConfirmEmail": {
-    "dialog_title": "Confirm your email",
-    "loading": "Loading...",
-    "ok_button": "Resend email"
+    "dialog_title": "Confirme su correo electrónico",
+    "loading": "Cargando...",
+    "ok_button": "Reenviar correo electrónico"
   },
   "CopyBarDialog": {
     "confirm-dialog": {
@@ -20,25 +20,25 @@
       "title": "Confirmar copia de barra",
       "yes_button": "@:(General.yes_button)"
     },
-    "intro": "Puede copiar cualquiera de las MorphicBars abajo en el MorphicBar que está editando. (Sustituyendo TODOS los contenidos actuales de la Barra Morfológica que estás editando)",
+    "intro": "Puede copiar cualquiera de las Barras de Morphic dispoinbles en la Barra de Morphic que está editando. (Aviso: se sustituirán TODOS los contenidos actuales de la Barra de Morphic que estás editando)",
     "no-bars": "No hay otras barras de las que copiar elementos.",
     "select-instruction": "Seleccione una barra desde la que copiar:",
     "title": "Copiar barra"
   },
   "EditorDetails": {
-    "copy-bar_button": "Copy bar from...",
-    "revert-bar_button": "Revert to user's current bar",
-    "save-bar_button": "Save bar",
-    "try-it_button": "Try it"
+    "copy-bar_button": "Copiar Barra desde...",
+    "revert-bar_button": "Revertir a la barra actual del usuario",
+    "save-bar_button": "Guardar Barra",
+    "try-it_button": "Probar"
   },
   "General": {
-    "no_button": "Nu",
+    "no_button": "No",
     "yes_button": "Sí",
-    "ok_button": "OK",
+    "ok_button": "Aceptar",
     "cancel_button": "Cancelar",
     "member-state": {
       "active": "Activo",
-      "invited": "Not yet accepted",
+      "invited": "No aceptado todavía",
       "uninvited": "No invitado"
     }
   },
@@ -68,35 +68,35 @@
   "BarItemLink": {},
   "BarPreview": {},
   "BarsList": {
-    "bars_aria-label": "Bars for {name}",
+    "bars_aria-label": "Barras de Morphic para {name}",
     "default-bar": "Barra por defecto",
     "new-bar_button": "Añadir una nueva barra",
-    "new-bar_button_aria-label": "Add a new bar for {name}"
+    "new-bar_button_aria-label": "Añadir una nueva Barra de Morphic para {name}"
   },
   "BillingDetails": {},
   "BlockLoginRegister": {},
   "Invite": {
-    "cancel_button": "Decline invitation",
+    "cancel_button": "Rechazar invitación",
     "confirm-decline-no_button": "No",
-    "confirm-decline_message": "Do you really want to decline your invitation for Morphic?",
-    "confirm-decline-yes_button": "Yes, decline",
-    "confirm-decline_title": "Decline Morphic Invation",
-    "dialog-sign-in_title": "Sign into Morphic to accept",
-    "dialog-register_title": "Sign up for Morphic to accept",
-    "home-page_button": "Go to Morphic home page",
-    "info-learn-more_link": "Learn more about Morphic",
-    "info-p1": "The person or organisation who invited you wants to create and manage MorphicBars for you.",
-    "info-p2": "If you accept, they will be able to make and update MorphicBars for your computer. They cannot see of change other bars or things on your computer.",
-    "info_heading": "Accept your Morphic invitation &amp; MorphicBar",
-    "loading": "Loading",
-    "message-accepted": "Your invitation has been accepted.",
-    "message-declined": "Your invitation has been declined.",
-    "message-invalid": "This invitation link is not valid.",
-    "message_title": "Morphic Invitation",
-    "ok-sign-in_button": "Accept Invitation",
-    "ok-register_button": "Accept & create account",
-    "register-email_description": "You can change this if you want to use a different email address",
-    "register-form-lead": "To accept your Morphic invitation and MorphicBar, you need to create a Morphic account below (unless you already have a Morphic account).",
+    "confirm-decline_message": "¿De verdad quiere rechazar su invitación para unirse a Morphic?",
+    "confirm-decline-yes_button": "Sí, rechazar",
+    "confirm-decline_title": "Rechazar la invitación a Morphic",
+    "dialog-sign-in_title": "Inicie sesión en Morphic para aceptar",
+    "dialog-register_title": "Regístrese en Morphic para aceptar",
+    "home-page_button": "Ir a la página de inicio de Morphic",
+    "info-learn-more_link": "Saber más sobre Morphic",
+    "info-p1": "La persona u organización que le ha invitado quiere crear y administrar Barras de Morphic en tu nombre.",
+    "info-p2": "Si acepta, la persona u organización que le ha invitado a Morphic podrán crear y actualizar Barras de Morphic para su equipo. No podrán ver o cambiar otras barras o configuraciones de su equipo.",
+    "info_heading": "Aceptar la invitación a Morphic &amp; Barra de Morphic",
+    "loading": "Cargando",
+    "message-accepted": "Su invitación ha sido aceptada.",
+    "message-declined": "Se ha rechazado su invitación.",
+    "message-invalid": "Este enlace de invitación no es válido.",
+    "message_title": "Invitación a Morphic",
+    "ok-sign-in_button": "Aceptar invitación",
+    "ok-register_button": "Aceptar y crear cuenta",
+    "register-email_description": "Puede cambiar esto si desea utilizar una dirección de correo electrónico diferente",
+    "register-form-lead": "Para aceptar su invitación a Morphic y la Barra de Morphic, necesita crear una cuenta de Morphic pulsando el enlace debajo (a menos que ya tenga una cuenta de Morphic).",
     "sign-in-form-lead": "To accept your Morphic invitation and MorphicBar, you need to sign into your Morphic account below (or create a Morphic account if you do not have one).",
     "sign-in-register_link": "Sign up for a new Morphic account with a different email",
     "sign-in_button": "Iniciar sesión"
