@@ -1,7 +1,7 @@
 {
   "BarSettings": {
-    "delete_button": "Eliminar Barra",
-    "rename_button": "Editar nombre de barra",
+    "delete_button": "Borrar Barra de Morphic",
+    "rename_button": "Editar nombre de la Barra de Morphic",
     "test_string": "ELIMINARME"
   },
   "ButtonCatalog": {
