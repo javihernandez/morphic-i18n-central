@@ -138,8 +138,8 @@
   "SidePanel": {
     "account-settings_link": "Configuración de la cuenta",
     "group-bars_heading": "Barras de Grupo",
-    "other-bars_heading": "Barra morfológica para otros",
-    "own-bars_heading": "Mis Barras de Morphic"
+    "other-bars_heading": "Barras de Morphic para terceros",
+    "own-bars_heading": "Barras de Morphic para mí"
   },
   "Dashboard": {
     "hints": {
@@ -155,19 +155,19 @@
     }
   },
   "EarlyReleaseProgram": {
-    "account-created": "Tu cuenta ha sido creada.",
-    "already-joined": "Ya tienes una cuenta",
+    "account-created": "Su cuenta ha sido creada.",
+    "already-joined": "Ya tiene una cuenta",
     "create-dialog-ok_button": "Crear cuenta",
-    "create-dialog-prompt": "¿Qué te gustaría nombrar esta cuenta?",
+    "create-dialog-prompt": "¿Qué nombre le gustaría ponerle a esta cuenta?",
     "create-dialog-text-hint": "Ejemplos: Su nombre, nombre de la organización, otro...",
-    "create-dialog-title": "Crea tu cuenta",
-    "heading": "Programa Morphic Early Release",
+    "create-dialog-title": "Crear cuenta",
+    "heading": "Programa de Lanzamiento Anticipado de Morphic",
     "intro": "Bienvenido a Morphic.",
     "join_link": "Haga clic aquí para comenzar"
   },
   "EditButtonDialog": {
     "color": {
-      "teal": "Cereal",
+      "teal": "Verde Azulado",
       "blue": "Azul",
       "purple": "Morado",
       "red": "Rojo",
@@ -190,7 +190,7 @@
   "InviteMemberDialog": {
     "cancel_button": "@:(General.cancel_button)",
     "email-copy": "Morphic también le enviará una copia del correo electrónico de invitación que incluirá instrucciones y vídeos de ayuda.",
-    "email_label": "Correo electrónico del invitado",
+    "email_label": "Correo electrónico de la persona a invitar",
     "form-lead": "Morphic recomienda que se ponga en contacto con la persona con antelación, para que sepa que le llegará un correo de invitación (y que no lo borre).",
     "from-email_aria-label": "Desde el correo electrónico",
     "from-name_aria-label": "Nombre del remitente",
@@ -210,7 +210,7 @@
     ]
   },
   "MembersList": {
-    "add-bar_button": "Añadir una nueva barra",
+    "add-bar_button": "Añadir una nueva Barra de Morphic",
     "add-member_button": "Añadir una persona",
     "collapse-all": "Colapsar todos",
     "expand-all": "Expandir todo",
@@ -220,7 +220,7 @@
     "invitation-not-accepted": "Invitado, no ha aceptado todavía.",
     "invite_button": "Invitar",
     "invite_button_aria-label": "Invitar a {name}",
-    "no-members": "¡Crea y gestiona MorphicBars para otros! Tu suscripción de {subscription} a Morphic te permite invitar a {maxMembers} personas a tu cuenta.",
+    "no-members": "¡Crea y gestiona MorphicBars para otros! Su suscripción de {subscription} a Morphic le permite invitar a {maxMembers} personas a tu cuenta.",
     "not-invited": "Aún no ha sido invitado.",
     "re-invite_button": "Reenviar invitación",
     "re-invite_button_aria-label": "Reenviar invitación a {name}",
@@ -232,12 +232,12 @@
   "MyCommunity": {},
   "NoSubscription": {
     "go-to-signup_link": "Haga clic aquí para ir a la página de registro de Morphic Plus",
-    "morphic-early-release-program": "Programa Morphic Early Release",
+    "morphic-early-release-program": "Programa de Lanzamiento Anticipado de Morphic",
     "morphic-plus-is-free": "Morphic Plus es gratis a través de",
-    "no-subscription-message": "Para crear barras de Morphic personalizadas necesitas tener una suscripción Morphic Plus"
+    "no-subscription-message": "Para crear Barras de Morphic personalizadas necesita tener una suscripción a Morphic Plus"
   },
   "PlanPicker": {
-    "12-month-payment": "(pagado anualmente)",
+    "12-month-payment": "(pago anual)",
     "6-month-payment": "(pago semestral)",
     "contact_link": "Contáctenos para más información",
     "current-plan-marker": "Su plan actual",
@@ -368,11 +368,11 @@
     "delete": {
       "apply_button": "Eliminar {member}",
       "cancel_button": "@:(General.cancel_button)",
-      "confirm": "Por favor, confirma la eliminación de {member} del grupo",
+      "confirm": "Por favor, confirme que desea eliminar a {member} del grupo",
       "title": "Eliminar miembro"
     },
     "removeBar": {
-      "apply_button": "Borrar barra",
+      "apply_button": "Borrar Barra de Morphic",
       "cancel_button": "@:(General.cancel_button)",
       "confirm": "¿Está seguro que desea eliminar la barra?\nEsto eliminará la barra de esta cuenta. Esto no se puede deshacer."
     }
