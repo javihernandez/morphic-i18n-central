@@ -104,22 +104,22 @@
 "control.feature.reader.title" = "Lector de pantalla";
 
 /* Label for the button that turns the reader on */
-"control.feature.reader.on" = "En";
+"control.feature.reader.on" = "Encendido";
 
 /* Title for the help window for the screen reader button */
 "control.feature.reader.on.help.title" = "Activar el lector de pantalla";
 
 /* Message for the help window for the hide magnifier button */
-"control.feature.reader.on.help.message" = "Haz que el ordenador lea el texto en voz alta";
+"control.feature.reader.on.help.message" = "Haga que el ordenador lea el texto en voz alta";
 
 /* Label for the button that turns the reader off */
 "control.feature.reader.off" = "Apagado";
 
 /* Title for the help window for the hide magnifier button */
-"control.feature.reader.off.help.title" = "Desactivar lector de pantalla";
+"control.feature.reader.off.help.title" = "Desactivar el lector de pantalla";
 
 /* Message for the help window for the hide magnifier button */
-"control.feature.reader.off.help.message" = "Evita que el ordenador lea texto en voz alta";
+"control.feature.reader.off.help.message" = "Haga que el ordenador deje de leer el texto en voz alta";
 
 /* Label for the buttons that control the volume */
 "control.feature.volume.title" = "Volumen";
@@ -131,25 +131,25 @@
 "control.feature.volume.up.help.title" = "Aumenta el volumen";
 
 /* Message for the help window for the volume up button */
-"control.feature.volume.up.help.message" = "Hace que todos los sonidos sean más fuertes.";
+"control.feature.volume.up.help.message" = "Aumenta el volumen general del sistema.";
 
 /* Title for the help window for the volume up button at its limit */
-"control.feature.volume.up.limit.help.title" = "El volumen no puede ir más alto";
+"control.feature.volume.up.limit.help.title" = "No se puede subir más el volumen";
 
 /* Message for the help window for the volume up button at its limit */
 "control.feature.volume.up.limit.help.message" = "";
 
 /* Title for the help window for the volume up button when muted */
-"control.feature.volume.up.muted.help.title" = "Retirar sonidos";
+"control.feature.volume.up.muted.help.title" = "Activa el volumen";
 
 /* Message for the help window for the volume up button when muted */
-"control.feature.volume.up.muted.help.message" = "Desactiva el silencio, permitiendo que los sonidos vuelvan de tu ordenador.";
+"control.feature.volume.up.muted.help.message" = "Activa el sonido, permitiendo que el sistema vuelva a reproducir sonidos.";
 
 /* Label for the button that turns the volume down */
 "control.feature.volume.down" = "\U2013";
 
 /* Title for the help window for the volume down button */
-"control.feature.volume.down.help.title" = "Disminuye el volumen";
+"control.feature.volume.down.help.title" = "Baja el volumen";
 
 /* Message for the help window for the volume down button */
 "control.feature.volume.down.help.message" = "Hace que todos los sonidos sean más silenciosos.";
@@ -161,73 +161,73 @@
 "control.feature.volume.down.limit.help.message" = "";
 
 /* Title for the help window for the volume down button at its limit */
-"control.feature.volume.down.muted.help.title" = "Retirar sonidos";
+"control.feature.volume.down.muted.help.title" = "Activa el volumen";
 
 /* Message for the help window for the volume down button at its limit */
-"control.feature.volume.down.muted.help.message" = "Desactiva el silencio, permitiendo que los sonidos vuelvan de tu ordenador.";
+"control.feature.volume.down.muted.help.message" = "Activa el sonido, permitiendo que el sistema vuelva a reproducir sonidos.";
 
 /* Label for the button that mutes the volume */
 "control.feature.volume.mute" = "Silenciar";
 
 /* Text for VoiceOver for the button that unmutes the volume */
-"control.feature.volume.mute.tts.muted" = "Retirar todos los sonidos";
+"control.feature.volume.mute.tts.muted" = "Activar el volumen";
 
 /* Text for VoiceOver for the button that mutes the volume */
 "control.feature.volume.mute.tts.unmuted" = "Silenciar todos los sonidos";
 
 /* Title for the help window for the mute button */
-"control.feature.volume.mute.help.title" = "Silencia todos los sonidos de tu computadora";
+"control.feature.volume.mute.help.title" = "Silencia todos los sonidos de su ordenador";
 
 /* Message for the help window for the mute button */
 "control.feature.volume.mute.help.message" = "Silencia a los altavoces - pero NO silencia el micrófono.";
 
 /* Title for the help window for the mute button when muted */
-"control.feature.volume.muted.help.title" = "Retirar sonidos";
+"control.feature.volume.muted.help.title" = "Activar el volumen";
 
 /* Message for the help window for the mute button when muted */
-"control.feature.volume.muted.help.message" = "Desactiva el silencio, permitiendo que los sonidos vuelvan de tu ordenador.";
+"control.feature.volume.muted.help.message" = "Activa el sonido, permitiendo que el sistema vuelva a reproducir sonidos.";
 
 /* Label for the buttons that control the contrast */
-"control.feature.contrast.title" = "Alto contrato";
+"control.feature.contrast.title" = "Alto contraste";
 
 /* Label for the button that turns high contrast on */
-"control.feature.contrast.on" = "En";
+"control.feature.contrast.on" = "Encendido";
 
 /* Title for the help window for the high contrast button */
-"control.feature.contrast.on.help.title" = "Activar alto contrato";
+"control.feature.contrast.on.help.title" = "Activar alto contraste";
 
 /* Message for the help window for the high contrast button */
-"control.feature.contrast.on.help.message" = "Hace más fácil leer a algunas personas";
+"control.feature.contrast.on.help.message" = "Facilita leer a algunas personas";
 
 /* Label for the button that turns high contrast off */
 "control.feature.contrast.off" = "Apagado";
 
 /* Title for the help window for the high contrast button */
-"control.feature.contrast.off.help.title" = "Desactivar alto contrato";
+"control.feature.contrast.off.help.title" = "Desactivar alto contraste";
 
 /* Message for the help window for the high contrast button */
 "control.feature.contrast.off.help.message" = "";
 
 /* Label for the buttons that play/stop 'read selected text' */
-"control.feature.readselected.title" = "Leer seleccionados";
+"control.feature.readselected.title" = "Leer la selección";
 
 /* Label for the button that plays/stops 'read selected text' */
 "control.feature.readselected.playstop" = "\U25B6 / \U25A0";
 
 /* Text for VoiceOver for the play/stop 'read selected text' button */
-"control.feature.readselected.playstop.tts" = "Leer texto seleccionado - Iniciar y detener";
+"control.feature.readselected.playstop.tts" = "Leer el texto seleccionado - Iniciar y detener";
 
 /* Title for the help window for the play/stop 'read selected text' button */
-"control.feature.readselected.playstop.help.title" = "Lee el texto seleccionado";
+"control.feature.readselected.playstop.help.title" = "Leer el texto seleccionado";
 
 /* Message for the help window for the play/stop 'read selected text' button */
-"control.feature.readselected.playstop.help.message" = "Seleccione el texto a leer. Luego haga clic en el botón play/stop. Los controles de lectura aparecerán.";
+"control.feature.readselected.playstop.help.message" = "Seleccione el texto a leer. Luego haga clic en el botón activar/parar. Los controles de lectura aparecerán.";
 
 /* Label for the buttons that control night mode */
 "control.feature.nightshift.title" = "Modo nocturno";
 
 /* Label for the button that turns night mode on */
-"control.feature.nightshift.on" = "En";
+"control.feature.nightshift.on" = "Activado";
 
 /* Title for the help window for the 'turn on night mode' button */
 "control.feature.nightshift.on.help.title" = "Encender modo nocturno";
@@ -251,7 +251,7 @@
 "control.feature.copypaste.copy" = "Copiar";
 
 /* Title for the help window for the copy button */
-"control.feature.copypaste.copy.help.title" = "Copia tu selección";
+"control.feature.copypaste.copy.help.title" = "Copia su selección";
 
 /* Message for the help window for the copy button */
 "control.feature.copypaste.copy.help.message" = "Copia texto u otro contenido que has seleccionado para que puedas pegarlo en algún lugar.";
@@ -260,13 +260,13 @@
 "control.feature.copypaste.paste" = "Pegar";
 
 /* Title for the help window for the paste button */
-"control.feature.copypaste.paste.help.title" = "Pegar lo que copiaste";
+"control.feature.copypaste.paste.help.title" = "Pega el contenido que haya copiado";
 
 /* Message for the help window for the paste button */
-"control.feature.copypaste.paste.help.message" = "Inserta contenido copiado donde está el cursor de texto.";
+"control.feature.copypaste.paste.help.message" = "Inserta el contenido copiado donde está el cursor de texto.";
 
 /* Label for the buttons that activate screen snip */
-"control.feature.screensnip.title" = "Recorte";
+"control.feature.screensnip.title" = "Recortar";
 
 /* Label for the button that activates screen snip */
 "control.feature.screensnip.copy" = "Copiar";
