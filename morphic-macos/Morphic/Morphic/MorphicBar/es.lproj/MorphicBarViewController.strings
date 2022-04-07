@@ -1,20 +1,20 @@
 /* Class = "NSMenuItem"; title = "Customize MorphicBar..."; ObjectID = "1rR-To-5lZ"; */
-"1rR-To-5lZ.title" = "Personalizar la barra morfológica...";
+"1rR-To-5lZ.title" = "Personalizar la Barra de Morphic...";
 
 /* Class = "NSMenuItem"; title = "Take Settings With Me..."; ObjectID = "jUa-06-vgJ"; */
 "jUa-06-vgJ.title" = "Tomar ajustes conmigo...";
 
 /* Class = "NSMenuItem"; title = "Hide MorphicBar"; ObjectID = "rih-DC-jC5"; */
-"rih-DC-jC5.title" = "Ocultar MorphicBar";
+"rih-DC-jC5.title" = "Mostrar la Barra de Morphic";
 
 /* Class = "NSMenuItem"; title = "Quit Morphic"; ObjectID = "tHP-m8-Lto"; */
 "tHP-m8-Lto.title" = "Salir de Morphic";
 
 /* Class = "NSButton"; ead-JY-BhL.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Advanced Features"; ObjectID = "ead-JY-BhL"; */
-"ead-JY-BhL.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Abre el menú morfológico";
+"ead-JY-BhL.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Abrir el menú de Morphic";
 
 /* Class = "NSButton"; ead-JY-BhL.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1] = "Customize buttons and take your settings with you anywhere"; ObjectID = "ead-JY-BhL"; */
-"ead-JY-BhL.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1]" = "Encuentra ajustes, inicia o cierra sesión, personaliza los botones, mueve los ajustes y más.";
+"ead-JY-BhL.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1]" = "Encuentre preferencias, inicie o cierre sesión, personalice los botones y más.";
 
 /* Label for the buttons that control text/icon size */
 "control.feature.resolution.title" = "Tamaño del texto";
@@ -23,13 +23,13 @@
 "control.feature.resolution.bigger" = "+";
 
 /* Text for VoiceOver for the larger text/icon size button */
-"control.feature.resolution.bigger.tts" = "Aumentar tamaño de texto";
+"control.feature.resolution.bigger.tts" = "Aumentar el tamaño del texto";
 
 /* Title for the help window for the larger text/icon size button */
 "control.feature.resolution.bigger.help.title" = "Aumenta el tamaño del texto en todas partes";
 
 /* Message for the help window for the larger text/icon size button */
-"control.feature.resolution.bigger.help.message" = "Hace que todo en la pantalla sea más grande.";
+"control.feature.resolution.bigger.help.message" = "Hace que todo se vea más grande en la pantalla.";
 
 /* Title for the help window for the larger text/icon size button when at its limit */
 "control.feature.resolution.bigger.limit.help.title" = "El tamaño del texto no puede ser mayor";
@@ -41,61 +41,61 @@
 "control.feature.resolution.smaller" = "\U2013";
 
 /* Text for VoiceOver for the smaller text/icon size button */
-"control.feature.resolution.smaller.tts" = "Reducir tamaño de texto";
+"control.feature.resolution.smaller.tts" = "Reducir el tamaño del texto";
 
 /* Title for the help window for the smaller text/icon size button */
 "control.feature.resolution.smaller.help.title" = "Disminuye el tamaño del texto en todas partes";
 
 /* Message for the help window for the smaller text/icon size button */
-"control.feature.resolution.smaller.help.message" = "Hace todo en la pantalla más pequeña.";
+"control.feature.resolution.smaller.help.message" = "Hace que todo se vea más pequeño en la pantalla.";
 
 /* Title for the help window for the smaller text/icon size button when at its limit */
-"control.feature.resolution.smaller.limit.help.title" = "El tamaño del texto no puede ser menor";
+"control.feature.resolution.smaller.limit.help.title" = "El tamaño del texto no se puede reducir más";
 
 /* Message for the help window for the smaller text/icon size button when at its limit */
 "control.feature.resolution.smaller.limit.help.message" = "";
 
 /* Label for the buttons that control the magnifier */
-"control.feature.magnifier.title" = "Magnifier";
+"control.feature.magnifier.title" = "Magnificador de pantalla";
 
 /* Label for the button that shows the magnifier */
 "control.feature.magnifier.show" = "Mostrar";
 
 /* Text for VoiceOver for the show magnifier button */
-"control.feature.magnifier.show.tts" = "Show Magnifier";
+"control.feature.magnifier.show.tts" = "Mostrar magnificador de pantalla";
 
 /* Title for the help window for the show magnifier button */
-"control.feature.magnifier.show.help.title" = "Activa un lente de lupa";
+"control.feature.magnifier.show.help.title" = "Activa el magnificador de pantalla";
 
 /* Message for the help window for the show magnifier button */
-"control.feature.magnifier.show.help.message" = "La lupa sigue su ratón. Su ratón puede hacer clic a través de la caja.";
+"control.feature.magnifier.show.help.message" = "El magnificador de pantalla sigue su ratón. Puede hacer click con el ratón a través del área magnificada.";
 
 /* Label for the button that hides the magnifier */
 "control.feature.magnifier.hide" = "Ocultar";
 
 /* Text for VoiceOver for the hide magnifier button */
-"control.feature.magnifier.hide.tts" = "Ocultar lupa";
+"control.feature.magnifier.hide.tts" = "Oculta el magnificador de pantalla";
 
 /* Title for the help window for the hide magnifier button */
-"control.feature.magnifier.hide.help.title" = "Desactiva la lupa";
+"control.feature.magnifier.hide.help.title" = "Desactiva el magnificador de pantalla";
 
 /* Message for the help window for the hide magnifier button */
-"control.feature.magnifier.hide.help.message" = "Para cambiar la configuración de la lupa, haga clic derecho sobre el botón.";
+"control.feature.magnifier.hide.help.message" = "Para cambiar la configuración del magnificador de pantalla, use el botón derecho del ratón.";
 
 /* Label for the button that shows the magnifier */
-"control.feature.magnifier.on" = "En";
+"control.feature.magnifier.on" = "Activado";
 
 /* Title for the help window for the show ("on") magnifier button */
-"control.feature.magnifier.on.help.title" = "Enciende la lupa";
+"control.feature.magnifier.on.help.title" = "Activa el magnificador de pantalla";
 
 /* Message for the help window for the show ("on") magnifier button */
-"control.feature.magnifier.on.help.message" = "Aumenta el área alrededor de tu ratón";
+"control.feature.magnifier.on.help.message" = "Aumenta el área alrededor del ratón";
 
 /* Label for the button that hides the magnifier */
 "control.feature.magnifier.off" = "Apagado";
 
 /* Title for the help window for the hide ("off") magnifier button */
-"control.feature.magnifier.off.help.title" = "Desactiva la lupa";
+"control.feature.magnifier.off.help.title" = "Desactiva el magnificador de pantalla";
 
 /* Message for the help window for the hide ("off") magnifier button */
 "control.feature.magnifier.off.help.message" = "";
@@ -272,7 +272,7 @@
 "control.feature.screensnip.copy" = "Copiar";
 
 /* Text for VoiceOver for the screen snip button */
-"control.feature.screensnip.copy.tts" = "Cortar copia de parte de la pantalla";
+"control.feature.screensnip.copy.tts" = "Recortar y copiar parte de la pantalla";
 
 /* Title for the help window for the screen snip button */
 "control.feature.screensnip.copy.help.title" = "Toma una foto de una parte seleccionada de la pantalla";
@@ -284,7 +284,7 @@
 "control.feature.colorvision.title" = "Visión de color";
 
 /* Label for the button that shows the color vision */
-"control.feature.colorvision.on" = "En";
+"control.feature.colorvision.on" = "Activado";
 
 /* Title for the help window for the show ("on") color vision button */
 "control.feature.colorvision.on.help.title" = "Activar Visión de Color";
@@ -305,19 +305,19 @@
 "control.feature.contrastcolordarknight.title" = "Contraste y color";
 
 /* Label for the button that toggles high contrast */
-"control.feature.contrastcolordarknight.contrast" = "Contrast";
+"control.feature.contrastcolordarknight.contrast" = "Contraste";
 
 /* Text for VoiceOver for the contrast button */
-"control.feature.contrastcolordarknight.contrast.tts" = "Contrast encendido, apagado";
+"control.feature.contrastcolordarknight.contrast.tts" = "Contraste encendido, apagado";
 
 /* Text for VoiceOver for the contrast button when the feature is enabled */
-"control.feature.contrastcolordarknight.contrast.tts.enabled" = "Desactivar contrato";
+"control.feature.contrastcolordarknight.contrast.tts.enabled" = "Desactivar contraste";
 
 /* Text for VoiceOver for the contrast button when the feature is disabled */
-"control.feature.contrastcolordarknight.contrast.tts.disabled" = "Activar contrato";
+"control.feature.contrastcolordarknight.contrast.tts.disabled" = "Activar contraste";
 
 /* Title for the help window for the contrast button */
-"control.feature.contrastcolordarknight.contrast.help.title" = "Activa y desactiva el contrato";
+"control.feature.contrastcolordarknight.contrast.help.title" = "Activa y desactiva el contraste";
 
 /* Message for the help window for the contrast button */
 "control.feature.contrastcolordarknight.contrast.help.message" = "Puede hacer que la pantalla sea más fácil de leer. Para cambiar la configuración, haga clic derecho en el botón.";
@@ -326,7 +326,7 @@
 "control.feature.contrastcolordarknight.color" = "Color";
 
 /* Text for VoiceOver for the color filters button */
-"control.feature.contrastcolordarknight.color.tts" = "Visión de color activada";
+"control.feature.contrastcolordarknight.color.tts" = "Visión de color activada, desactivada";
 
 /* Text for VoiceOver for the color filters button when the feature is enabled */
 "control.feature.contrastcolordarknight.color.tts.enabled" = "Desactivar Visión de Color";
@@ -335,7 +335,7 @@
 "control.feature.contrastcolordarknight.color.tts.disabled" = "Activar Visión de Color";
 
 /* Title for the help window for the color filters button */
-"control.feature.contrastcolordarknight.color.help.title" = "Activa y desactiva los filtros de color a ciegas";
+"control.feature.contrastcolordarknight.color.help.title" = "Activa y desactiva los filtros de color";
 
 /* Message for the help window for the color filters button */
 "control.feature.contrastcolordarknight.color.help.message" = "Cambia los colores para adaptarse a las diferencias de visión de color. Para elegir el tipo, haga clic derecho en el botón.";
@@ -374,13 +374,13 @@
 "control.feature.contrastcolordarknight.night.help.title" = "Activa y desactiva la función de cambio nocturno";
 
 /* Message for the help window for the night shift button */
-"control.feature.contrastcolordarknight.night.help.message" = "Reduce la cepa de los ojos y hace más fácil dormir por la noche.";
+"control.feature.contrastcolordarknight.night.help.message" = "Reduce la fatiga visual y permite dormir mejor.";
 
 /* Label for the buttons that control the dark mode */
 "control.feature.darkmode.title" = "Modo Oscuro";
 
 /* Label for the button that shows the dark mode */
-"control.feature.darkmode.on" = "En";
+"control.feature.darkmode.on" = "Activado";
 
 /* Title for the help window for the show ("on") dark mode button */
 "control.feature.darkmode.on.help.title" = "Encender el modo oscuro";
@@ -398,7 +398,7 @@
 "control.feature.darkmode.off.help.message" = "Desactiva el modo oscuro. (Click derecho para ajustar.)";
 
 /* Label for the buttons that open/eject usb drives */
-"control.feature.usbdrives.title" = "Unidades USB (Todos)";
+"control.feature.usbdrives.title" = "Unidades USB (Todas)";
 
 /* Label for the button that opens all usb drives */
 "control.feature.usbdrives.open" = "Abrir";
@@ -410,7 +410,7 @@
 "control.feature.usbdrives.open.help.message" = "Abre y muestra los archivos de todas las unidades USB conectadas al ordenador.";
 
 /* Label for the button that safely ejects all usb drives */
-"control.feature.usbdrives.eject" = "Eject";
+"control.feature.usbdrives.eject" = "Expulsar";
 
 /* Title for the help window for the "eject usb drives" button" */
 "control.feature.usbdrives.eject.help.title" = "Expulsar todas las unidades USB";
