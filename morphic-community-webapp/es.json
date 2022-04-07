@@ -5,7 +5,7 @@
     "test_string": "ELIMINARME"
   },
   "ButtonCatalog": {
-    "search-result-summary": "No items found | 1 item found | {n} items found"
+    "search-result-summary": "No se encontraron artículos | 1 elemento encontrado | {n} elementos encontrados"
   },
   "ConfirmEmail": {
     "dialog_title": "Confirme su correo electrónico",
@@ -44,23 +44,23 @@
   },
   "Errors": {
     "generic-server-error": "Error del servidor: {message}",
-    "generic-title": "Incapaz de {action}",
+    "generic-title": "No se puede {action}",
     "generic-action": "realizar la última acción",
-    "invalid_credentials": "Esa dirección de correo electrónico o contraseña no ha sido reconocida.",
+    "invalid_credentials": "No hemos reconocido esta dirección de correo electrónico o contraseña.",
     "missing_required": "Falta un campo obligatorio.",
-    "existing_email": "Ya hay una cuenta asociada con esa dirección de correo electrónico.",
+    "existing_email": "Ya existe una cuenta asociada con esa dirección de correo electrónico.",
     "existing_username": "Ya existe una cuenta que utiliza ese nombre de usuario.",
     "limit_reached": "Se ha alcanzado el número máximo de miembros para tu suscripción.",
-    "cannot_demote_self": "No puedes degradarte a ti mismo.",
-    "cannot_delete_self": "No puedes borrarte de la comunidad.",
+    "cannot_demote_self": "No puedes destituirte a ti mismo.",
+    "cannot_delete_self": "No puedes borrarte a ti mismo de la comunidad.",
     "http": {
-      "404": "No se puede acceder al servidor. Inténtalo de nuevo más tarde.",
-      "500": "Hay un problema con el servidor. Inténtalo de nuevo más tarde."
+      "404": "No se puede acceder al servidor. Inténtelo de nuevo más tarde.",
+      "500": "Hay un problema con el servidor. Inténtelo de nuevo más tarde."
     },
     "validation": {
-      "app-missing": "La solicitud de apertura no ha sido elegida.",
+      "app-missing": "No se ha seleccionado la aplicación a abrir.",
       "field-missing": "Falta un campo obligatorio: {name}.",
-      "link-missing": "El sitio para abrir no ha sido elegido."
+      "link-missing": "No se ha seleccionado la opción a abrir."
     }
   },
   "App": {},
@@ -238,50 +238,50 @@
   },
   "PlanPicker": {
     "12-month-payment": "(pagado anualmente)",
-    "6-month-payment": "(pago semianual)",
+    "6-month-payment": "(pago semestral)",
     "contact_link": "Contáctenos para más información",
-    "current-plan-marker": "Tu plan actual",
+    "current-plan-marker": "Su plan actual",
     "enterprise-information": "Morphic también ofrece planes de empresa para grupos más grandes, universidades, empresas y organizaciones.",
     "future-upgrade-hint": "¿No estás seguro de cuántos miembros tendrá? Puedes actualizar tu suscripción cuando lo necesites.",
     "payment_button": "Continuar con el pago",
     "plan-limit": "ninguno | Administrar 1 miembro | Administrar hasta {n} miembros",
-    "plan-monthly-price": "{price} al mes",
-    "plan-savings": "Ahorros de {savings} con descuento de pago anual.",
-    "plan-too-small": "Tu grupo actual es demasiado grande para este plan.",
-    "renew-monthly": "se renueva automáticamente mensualmente hasta que se cancele"
+    "plan-monthly-price": "{price} mensual",
+    "plan-savings": "Ahorros de {savings} con descuento por pago anual.",
+    "plan-too-small": "Su grupo actual es demasiado grande para este plan.",
+    "renew-monthly": "se renueva automáticamente cada mes hasta que se cancele"
   },
   "Plans": {
-    "close_button": "Cerrar tu grupo",
+    "close_button": "Cerrar su grupo",
     "group_bullet": "Grupo: {name}",
-    "leave_heading": "¿No estás seguro de que quieres permanecer con Morphic?",
-    "leave_text": "Si ya no quieres administrar tu grupo, puedes cerrarlo. Una vez que el grupo esté cerrado, todos los\n          los miembros de tu grupo perderán allí las personalizaciones. Cada persona verá la Barra Morfológica básica.",
+    "leave_heading": "¿No está seguro de continuar con Morphic?",
+    "leave_text": "Si ya no desea administrar su grupo, puede cerrarlo. Una vez que el grupo esté cerrado, todos \n          los miembros del grupo perderán sus Barras de Morphic personalizadas. Los miembro volverán a tener la Barra de Morphic básica.",
     "member-count_bullet": "Miembros actuales: {member_count}",
-    "pick-subscription_heading": "Escoge una suscripción",
-    "trial-ended": "Tu prueba acaba hoy. | Tu prueba terminó ayer. | Tu prueba terminó hace {n} días.",
-    "trial-ending": "Tu prueba termina hoy. | Tu periodo de prueba terminará mañana. | Tu periodo de prueba terminará en {n} días."
+    "pick-subscription_heading": "Escoja una suscripción",
+    "trial-ended": "Su periodo de prueba finaliza hoy. | Su periodo de prueba finalizó ayer. | Su periodo de prueba finalizó hace {n} días.",
+    "trial-ending": "Su periodo de prueba finaliza hoy. | Su periodo de prueba finalizará mañana. | Su periodo de prueba finalizará en {n} días."
   },
   "PreviewItem": {},
   "Registration": {
-    "account-benefits-lead": "Una cuenta te permite",
+    "account-benefits-lead": "Una cuenta le permite",
     "account-benefits_list": [
-      "Copia de seguridad de tus ajustes de accesibilidad y usabilidad en Morphic",
+      "Haga una copia de seguridad de sus ajustes de accesibilidad y usabilidad en Morphic",
       "Aplica tus ajustes rápidamente a cualquier ordenador con Morphic en él",
-      "Crea tu propia MorphicBar (con una suscripción o si es parte del programa de lanzamiento temprano)"
+      "Cree su propia Barra de Morphic (con una suscripción o si es parte del Programa de Lanzamiento Anticipado)"
     ],
-    "back_link": "Ya tengo una cuenta Morphic",
-    "form_heading": "¿Nuevo en morfológico?",
-    "form_lead": "Crea tu cuenta Morphic ahora",
+    "back_link": "Ya tengo una cuenta de Morphic",
+    "form_heading": "¿Nuevo en Morphic?",
+    "form_lead": "Cree su cuenta de Morphic ahora",
     "side-heading": "Morphic es mejor con una cuenta Morphic",
-    "submit_button": "Regístrate"
+    "submit_button": "Registrarse"
   },
   "RenderList": {},
   "RenderListItem": {},
   "ResetPassword": {
-    "enter-your-email-address": "Introduzca su dirección de correo",
+    "enter-your-email-address": "Introduzca su dirección de correo electrónico",
     "instructions": "Introduzca su dirección de correo electrónico y le enviaremos las instrucciones para restablecer su contraseña.",
-    "heading": "Restablecer su contraseña",
+    "heading": "Restablecer contraseña",
     "reset-password_button": "Restablecer contraseña",
-    "return-to-login_link": "Volver a Login",
+    "return-to-login_link": "Volver al inicio de sesión",
     "success": "Las instrucciones para recuperar su contraseña han sido enviadas por correo electrónico."
   },
   "TextInputDialog": {},
@@ -292,7 +292,7 @@
       "steps": [
         {
           "text": [
-            "<b>¿Creando una Barra de Morphic para ti?</b>",
+            "<b>¿Creando una Barra de Morphic para usted?</b>",
             "En mi Barra de Morphic, hacer clic en <i>@:(BarsList.new-bar_button)</i>.",
             "",
             "<b>¿Creando una Barra de Morphic para otra persona?</b>",
@@ -355,15 +355,15 @@
     "sign-in_button": "Iniciar sesión"
   },
   "UserRegistration": {
-    "success": "Registro completado correctamente"
+    "success": "Registro completado con éxito"
   },
   "ValidatedInput": {},
   "members": {
     "changeRole": {
       "apply_button": "Cambiar a {role}",
       "cancel_button": "@:(General.cancel_button)",
-      "confirm": "Por favor, confirma el cambio de rol de {member} a {role}",
-      "title": "Cambiar rol de miembro"
+      "confirm": "Por favor confirme el cambio de rol de {member} a {role}",
+      "title": "Cambiar rol de la persona asociada"
     },
     "delete": {
       "apply_button": "Eliminar {member}",
