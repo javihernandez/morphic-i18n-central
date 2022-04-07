@@ -283,7 +283,7 @@
     <value>Aumenta el tamaño del texto en todas partes</value>
   </data>
   <data name="QuickStrip_Resolution_Bigger_Name" xml:space="preserve">
-    <value>Aumentar tamaño de texto</value>
+    <value>Aumentar el tamaño del texto</value>
   </data>
   <data name="QuickStrip_Resolution_Bigger_LimitMessage" xml:space="preserve">
     <value></value>
